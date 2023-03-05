@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("fonts/Montserrat-SemiBoldItalic.woff") format "woff";
+  font-weight: 700;
+}
+body {
+  background-color: tomato;
+  font-family: Montserrat, sans-serif;
+}/*# sourceMappingURL=index.css.map */
